@@ -1,0 +1,15 @@
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.csproj.AssemblyReference.cache
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.AssemblyInfoInputs.cache
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.AssemblyInfo.cs
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.csproj.CoreCompileInputs.cache
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\KZ_Week6_ListProblems.exe
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\KZ_Week6_ListProblems.deps.json
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\KZ_Week6_ListProblems.runtimeconfig.json
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\KZ_Week6_ListProblems.dll
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\ref\KZ_Week6_ListProblems.dll
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\bin\Debug\net6.0\KZ_Week6_ListProblems.pdb
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.dll
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\ref\KZ_Week6_ListProblems.dll
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.pdb
+F:\Lone Star Game Design AAS\ITSE-1307\KZ_Week6_ListProblems\obj\Debug\net6.0\KZ_Week6_ListProblems.genruntimeconfig.cache
